@@ -26,9 +26,13 @@ Finally, the result is shown on a display (HDMI monitor).
 ### Key features:
 
 **MIPI 1280x720 camera input.**
+
 **Only use RZ/A2M internal 4MB memory.**
+
 **Support face detection & mask detection.**
+
 **Face Detection performance: 30fps**
+
 **Face + Mask Detection performance: 15fps.**
 
 ([DRP](https://www.renesas.com/eu/en/application/technologies/drp)).
